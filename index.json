@@ -1,0 +1,43 @@
+﻿{
+    "name":  "Puddles VRC Unity Tools",
+    "id":  "com.puddles.vrc-unity-tools.repo",
+    "url":  "https://raw.githubusercontent.com/Austin-M-Thomas/p-j-e/main/Dist/vpm/index.json",
+    "author":  "bobsareeverywhere@outlook.com",
+    "packages":  {
+                     "com.puddles.vrc-unity-tools":  {
+                                                         "versions":  {
+                                                                          "1.0.2":  {
+                                                                                        "name":  "com.puddles.vrc-unity-tools",
+                                                                                        "version":  "1.0.2",
+                                                                                        "displayName":  "Puddles VRC Unity Tools",
+                                                                                        "description":  "Unity editor tools for VRChat avatar creation, focused on editable avatar controls and Poiyomi shader radial menus.",
+                                                                                        "unity":  "2022.3",
+                                                                                        "license":  "PolyForm-Noncommercial-1.0.0",
+                                                                                        "author":  {
+                                                                                                       "name":  "Puddles",
+                                                                                                       "email":  "bobsareeverywhere@outlook.com"
+                                                                                                   },
+                                                                                        "vpmDependencies":  {
+                                                                                                                "com.vrchat.avatars":  "\u003e=3.7.0"
+                                                                                                            },
+                                                                                        "keywords":  [
+                                                                                                         "vrchat",
+                                                                                                         "avatar",
+                                                                                                         "poiyomi",
+                                                                                                         "editor",
+                                                                                                         "expressions",
+                                                                                                         "radial-menu",
+                                                                                                         "toggles"
+                                                                                                     ],
+                                                                                        "category":  "Tools",
+                                                                                        "url":  "https://raw.githubusercontent.com/Austin-M-Thomas/p-j-e/main/com.puddles.vrc-unity-tools-1.0.2.zip",
+                                                                                        "changelogUrl":  "https://raw.githubusercontent.com/Austin-M-Thomas/p-j-e/main/CHANGELOG.md",
+                                                                                        "legacyFolders":  {
+                                                                                                              "Assets\\PuddlesVrcTools":  ""
+                                                                                                          },
+                                                                                        "zipSHA256":  "fc1690013d122995cc1b1157aa258891d34a726e4757dd76b31a9562823fe1a4"
+                                                                                    }
+                                                                      }
+                                                     }
+                 }
+}
