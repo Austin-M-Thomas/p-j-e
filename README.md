@@ -4,7 +4,11 @@ This repository contains a Unity Package Manager package for VRChat avatar creat
 
 ## Add to VRC Creator Companion
 
-Click Settings, Click Packages, Click +Add Repositor(on the right hand side of the screen)
+Click Settings, Click Packages, Click +Add Repositor(on the right hand side of the screen) Then Paste this link and hit submit.
+
+https://raw.githubusercontent.com/Austin-M-Thomas/p-j-e/main/index.json
+
+Now the package should be available for instal in your VRChat creator companion under Managed Packages. 
 
 ## Package
 
