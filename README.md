@@ -2,6 +2,10 @@
 
 This repository contains a Unity Package Manager package for VRChat avatar creation tools.
 
+## Add to VRC Creator Companion
+
+Click Settings, Click Packages, Click +Add Repositor(on the right hand side of the screen)
+
 ## Package
 
 Package folder:
